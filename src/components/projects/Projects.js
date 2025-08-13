@@ -33,7 +33,7 @@ const Projects = () => {
           Whether you’re new to digital currency or looking to expand your knowledge, we provide easy-to-follow explanations, real-world examples, and expert insights to help you navigate the crypto world confidently. "
           src={cyro}
           gitlink={'https://github.com/SANSAI-FSD/TEMPLATEPROJECT'}
-          livelink={'unique-tarsier-bdf34d.netlify.app'} 
+          livelink={'https://templateproject-jbvp.onrender.com'} 
         />
          <ProjectsCard
           title="COURSE LANDING PAGE"
@@ -41,7 +41,7 @@ const Projects = () => {
            Designed a modern, user-friendly UI optimized for all devices."
           src={bootstrap}
           gitlink={'https://github.com/SANSAI-FSD/bootstrap'}
-          livelink={'bootstrapba.netlify.app'} 
+          livelink={'https://bootstrapp-e3r4.onrender.com/'} 
         />
         {/* <ProjectsCard
           title="SOCIAL MEDIA CLONE"
