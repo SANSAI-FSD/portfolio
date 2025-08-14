@@ -68,8 +68,8 @@ const LeftBanner = () => {
           <h2 className="text-base uppercase font-titleFont mb-4 mt-5">
             BEST SKILL ON
           </h2>
-          <div className="flex">
-            <span className="bannerIcon">
+          <div className="flex mt-2 gap-4">
+            <span className="bannerIcon ">
               <SiMongodb/>
             </span>
             <span className="bannerIcon">

@@ -41,7 +41,7 @@ const Projects = () => {
            Designed a modern, user-friendly UI optimized for all devices."
           src={bootstrap}
           gitlink={'https://github.com/SANSAI-FSD/bootstrap'}
-          livelink={'https://bootstrapp-e3r4.onrender.com/'} 
+          livelink={'https://bootstrapp-e3r4.onrender.com'} 
         />
         {/* <ProjectsCard
           title="SOCIAL MEDIA CLONE"
