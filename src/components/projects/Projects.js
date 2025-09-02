@@ -4,7 +4,7 @@ import Title from '../layouts/Title'
 import ProjectsCard from './ProjectsCard';
 import petadopt from '../../assets/images/pet-adopt.png'
 import cyro from '../../assets/images/CYRO.png'
-import bootstrap from '../../assets/images/bootstrap.png'
+import isp from '../../assets/images/ISP.png'
 
 const Projects = () => {
   return (
@@ -36,12 +36,11 @@ const Projects = () => {
           livelink={'https://templateproject-jbvp.onrender.com'} 
         />
          <ProjectsCard
-          title="COURSE LANDING PAGE"
-          des=" Code Camp – Interactive Learning Platform – Built a responsive React-based website featuring learning modes, course details, FAQs, and instructor profiles.
-           Designed a modern, user-friendly UI optimized for all devices."
-          src={bootstrap}
-          gitlink={'https://github.com/SANSAI-FSD/bootstrap'}
-          livelink={'https://bootstrapp-e3r4.onrender.com'} 
+        title="ISP AGENCY WEBSITE"
+          des="Built a responsive multi-page ISP agency website using React with an interactive UI. Features include service plan listings. Implemented smooth navigation with React Router and optimized for mobile responsiveness."
+          src={isp}
+          gitlink={'https://github.com/SANSAI-FSD/ISP'}
+          livelink={'ispagencyyy.netlify.app'} 
         />
         {/* <ProjectsCard
           title="SOCIAL MEDIA CLONE"

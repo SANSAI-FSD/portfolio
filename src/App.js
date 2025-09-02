@@ -6,8 +6,8 @@ import Footer from "./components/footer/Footer";
 import FooterBottom from "./components/footer/FooterBottom";
 import Navbar from "./components/navbar/Navbar";
 import Projects from "./components/projects/Projects";
-import Resume from "./components/resume/Resume";
-import Testimonial from "./components/tesimonial/Testimonial";
+// import Resume from "./components/resume/Resume";
+// import Testimonial from "./components/tesimonial/Testimonial";
 
 function App() {
   return (
