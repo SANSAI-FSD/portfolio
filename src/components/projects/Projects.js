@@ -45,8 +45,7 @@ const Projects = () => {
         />
         <ProjectsCard
           title="LAX 360 WEBSITE"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          des=" A full-stack MERN web platform built with the assistance of AI tools to accelerate development, improve UI/UX design, and ensure clean, scalable code."
           src={lax}
           gitlink={'https://github.com/SANSAI-FSD/LAX360FRONTEND'}
           livelink={'https://lax360frontend.onrender.com'} 
