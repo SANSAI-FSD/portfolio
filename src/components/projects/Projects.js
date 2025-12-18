@@ -41,7 +41,7 @@ const Projects = () => {
           des="Built a responsive multi-page ISP agency website using React with an interactive UI. Features include service plan listings. Implemented smooth navigation with React Router and optimized for mobile responsiveness."
           src={isp}
           gitlink={'https://github.com/SANSAI-FSD/ISP'}
-          livelink={'ispagencyyy.netlify.app'} 
+          livelink={'https://isp-jp0t.onrender.com/'} 
         />
         <ProjectsCard
           title="LAX 360 WEBSITE"
