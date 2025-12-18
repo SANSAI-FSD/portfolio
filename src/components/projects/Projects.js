@@ -5,6 +5,7 @@ import ProjectsCard from './ProjectsCard';
 import petadopt from '../../assets/images/pet-adopt.png'
 import cyro from '../../assets/images/CYRO.png'
 import isp from '../../assets/images/ISP.png'
+import lax from '../../assets/images/lax360.png'
 
 const Projects = () => {
   return (
@@ -42,13 +43,15 @@ const Projects = () => {
           gitlink={'https://github.com/SANSAI-FSD/ISP'}
           livelink={'ispagencyyy.netlify.app'} 
         />
-        {/* <ProjectsCard
-          title="SOCIAL MEDIA CLONE"
+        <ProjectsCard
+          title="LAX 360 WEBSITE"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
-          src={projectThree}
+          src={lax}
+          gitlink={'https://github.com/SANSAI-FSD/LAX360FRONTEND'}
+          livelink={'https://lax360frontend.onrender.com'} 
         />
-        <ProjectsCard
+        {/* <ProjectsCard
           title="E-commerce Website"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
